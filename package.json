@@ -1,0 +1,27 @@
+{
+  "name": "@pragmaproducts/typescript-aurelia-framework",
+  "version": "1.0.0",
+  "description": "framework for wirting aurelia applications in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caperavensoftware/typescrpt-aurelia-framework.git"
+  },
+  "author": "Johan Rabie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caperavensoftware/typescrpt-aurelia-framework/issues"
+  },
+  "homepage": "https://github.com/caperavensoftware/typescrpt-aurelia-framework#readme",
+  "jspm": {},
+  "devDependencies": {
+    "@pragmaproducts/build-utilities": "0.0.1",
+    "gulp": "^3.9.1",
+    "gulp-require": "^0.1.4",
+    "typescript": "^1.8.10",
+    "typings": "^1.0.4"
+  }
+}
