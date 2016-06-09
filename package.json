@@ -16,12 +16,12 @@
     "url": "https://github.com/caperavensoftware/typescrpt-aurelia-framework/issues"
   },
   "homepage": "https://github.com/caperavensoftware/typescrpt-aurelia-framework#readme",
-  "jspm": {},
-  "devDependencies": {
-    "@pragmaproducts/build-utilities": "0.0.1",
-    "gulp": "^3.9.1",
-    "gulp-require": "^0.1.4",
-    "typescript": "^1.8.10",
-    "typings": "^1.0.4"
-  }
+  "jspm": {
+    "dependencies": {
+      "aurelia-bootstrapper": "npm:aurelia-bootstrapper@^1.0.0-beta.1.2.1",
+      "aurelia-framework": "npm:aurelia-framework@^1.0.0-beta.1.2.5"
+    },
+    "devDependencies": {}
+  },
+  "devDependencies": {}
 }
