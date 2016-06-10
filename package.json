@@ -23,6 +23,7 @@
     },
     "devDependencies": {}
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@pragmaproducts/build-utilities": "0.0.2"
+  }
 }
-h

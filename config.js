@@ -3,7 +3,7 @@ System.config({
   defaultJSExtensions: true,
   transpiler: false,
   paths: {
-    "*": "dist/*",
+    "*": "app/*",
     "npm:*": "jspm_packages/npm/*"
   },
 
