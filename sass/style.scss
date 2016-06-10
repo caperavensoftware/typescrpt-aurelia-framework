@@ -1,3 +1,9 @@
+@import './../node_modules/@pragmaproducts/build-utilities/sass/normalize.scss';
+
 body {
-  background: right;
+  background: cornsilk;
+}
+
+router-view, .sidebar {
+  display: inline-block;
 }
